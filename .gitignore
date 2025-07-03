@@ -1,6 +1,7 @@
-.crewAi.ipynb
-.local.ipynb
-.Untitled1.ipynb
+crewAi.ipynb
+local.ipynb
+Untitled1.ipynb
 .ipynb_checkpoints/
 .__pycache__
-.env
+*.env
+others/
